@@ -1,0 +1,26 @@
+a:link {
+  color: MidnightBlue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: LightSteelBlue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: MediumTurquoise;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: MediumTurquoise;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
