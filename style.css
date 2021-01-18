@@ -5,7 +5,7 @@ a:link {
 }
 
 a:visited {
-  color: LightSteelBlue;
+  color: rgba(23, 47, 78, 0.795);
   background-color: transparent;
   text-decoration: none;
 }
@@ -22,5 +22,25 @@ a:active {
   text-decoration: none;
 }
 
+h1{
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
 
+h4{
+  text-align: center
+}
 
+ol{
+  font-size: 20px;
+}
+
+.nclip{
+  font-size: 18px;
+}
+
+.h1test{
+  border:5px darkcyan solid;
+  padding:5px;
+}
