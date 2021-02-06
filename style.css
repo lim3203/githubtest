@@ -26,6 +26,7 @@ h1{
   color: black;
   text-align: center;
   font-weight: bold;
+  margin:3;
 }
 
 h4{
@@ -40,7 +41,21 @@ ol{
   font-size: 18px;
 }
 
-.h1test{
-  border:5px darkcyan solid;
-  padding:5px;
+h4{
+  border-bottom:2px darkcyan solid;
+  padding-bottom:20px;
+  margin:0;
 }
+
+ol{
+  border-right:2px solid gray;
+  width: 120px;
+  padding:20px;
+  margin:2px;
+}
+
+
+ #grid{
+    display: grid;
+    grid-template-columns: 180px 1fr;
+  }
